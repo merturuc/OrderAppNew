@@ -1,0 +1,11 @@
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\bin\Debug\netcoreapp2.0\webapi1.deps.json
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\bin\Debug\netcoreapp2.0\webapi1.runtimeconfig.json
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\bin\Debug\netcoreapp2.0\webapi1.runtimeconfig.dev.json
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\bin\Debug\netcoreapp2.0\webapi1.dll
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.csprojAssemblyReference.cache
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.AssemblyInfoInputs.cache
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.AssemblyInfo.cs
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\bin\Debug\netcoreapp2.0\webapi1.pdb
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.dll
+C:\Users\Furkan Guner\source\repos\webapi1\webapi1\obj\Debug\netcoreapp2.0\webapi1.pdb
